@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Oskar Michalik
-- 👀 I’m interested in Programing :)
-- 🌱 I’m currently learning React
-- 📫 How to reach me: Email: Oskar.Michalik06@gmail.com
-- ⚡ Fun fact: I played a lot on drums as a kid :)
+  
+- 📫 Email: Oskar.Michalik06@gmail.com
+- 📫 Phone: +48 690 011 906
